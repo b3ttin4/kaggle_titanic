@@ -1,4 +1,4 @@
-## shablona
+## kaggle_titanic
 [![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona)
 
 kaggle_titanic is a classification of the kaggle competition "Titanic - Machine Learning from Disaster" [here](https://www.kaggle.com/c/titanic/leaderboard#score).
