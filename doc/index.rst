@@ -3,10 +3,11 @@
 Welcome to shablona's documentation!
 ====================================
 
-`Shablona` is a template for a small scientific Python project. 
+`kaggle_titanic` is a classifier on the kaggle project "Titanic - Machine Learning from 
+Disaster" (https://www.kaggle.com/c/titanic/leaderboard#score)
 
 To see how to use it, please refer to the `README file 
-<https://github.com/uwescience/shablona/blob/master/README.md>`_ in the Github repository.
+<https://github.com/uwescience/kaggle_titanic/blob/master/README.md>`_ in the Github repository.
 
 This is an example of documentation of the software, using sphinx_. 
 
