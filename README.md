@@ -23,6 +23,8 @@ The project has the following structure:
             |- ...
          |- _static/
             |- ...
+      |- scripts
+         |- classification.ipynb
       |- setup.py
       |- .travis.yml
       |- .mailmap
