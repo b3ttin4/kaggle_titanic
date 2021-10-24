@@ -60,4 +60,4 @@ This repository contains an [IPython notebook] that reads
 in the test and training data, learns the classification model on the 
 training data and applies it to the test data. You can see this notebook
 fully rendered
-[here](https://github.com/uwescience/kaggle_titanic/blob/master/scripts/classification.ipynb).
+[here](https://github.com/b3ttin4/kaggle_titanic/tree/master/scripts/classification.ipynb).
